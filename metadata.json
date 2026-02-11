@@ -1,0 +1,7 @@
+{
+  "name": "Artiface - AI Art Generator",
+  "description": "Transform human faces and figures into stunning digital art using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
